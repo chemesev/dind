@@ -1,3 +1,5 @@
 image: nginx
+branches:
+  - master
 script:
   - echo hello world
